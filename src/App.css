@@ -1,0 +1,17 @@
+.App {
+  text-align: center;  
+  margin: auto auto;
+  margin-left: 200px;
+  margin-right: 200px;
+
+}
+
+.dataCard{
+margin-top: 40px;
+display: flex;
+
+justify-content: space-evenly;
+align-items: center;
+
+
+}
